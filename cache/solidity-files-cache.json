@@ -37,8 +37,8 @@
       ]
     },
     "/home/charles/Desktop/Blockchain/waveportal/contracts/WavePortal.sol": {
-      "lastModificationDate": 1637845292490,
-      "contentHash": "42ca024df67ad538be2fae803dad40b0",
+      "lastModificationDate": 1637845920386,
+      "contentHash": "515f1d3937c270be3f17a675379fa3d5",
       "sourceName": "contracts/WavePortal.sol",
       "solcConfig": {
         "version": "0.8.4",
